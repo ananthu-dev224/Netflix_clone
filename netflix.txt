@@ -1,0 +1,11 @@
+
+@NETFLIX CLONE
+
+Fetching by axios
+axios fetching process is set up in separate folder as it is called when in use.
+
+
+
+
+
+
